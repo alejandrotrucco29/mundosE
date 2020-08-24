@@ -1,0 +1,9 @@
+> cat > .gitignore
+*.DS_Store
+.tmp
+.idea/workspace.xml
+/out
+.class
+Ctrl+D
+> git commit -am "Se modifico el archivo .gitignore"
+> git status
